@@ -1,0 +1,5 @@
+name: TotemInInventory
+version: '${project.version}'
+main: com.trillium.totemininventory.TotemInInventory
+api-version: 1.18
+description: Simple plugin that allow totems to be used in the inventory
